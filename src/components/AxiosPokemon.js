@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const AxiosPokemon = (props) => {
+const AxiosPokemon = () => {
     const [pokemon, setPokemon] = useState([]);
 
     const onClickHandler = () => {
