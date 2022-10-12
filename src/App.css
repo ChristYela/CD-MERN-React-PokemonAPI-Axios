@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.container{
+text-align: center;
+}
+
+.bot{
+  margin-top: 150px;
+}
+
+
+.h2{
+  font-weight: 700;
+}
+
+.result{
+  font-weight: 600;
+}
